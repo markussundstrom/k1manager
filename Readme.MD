@@ -37,4 +37,4 @@ Run K1Manager.sh from $PREFIX/bin. The application will load any bank files foun
 
 ### Known issues:
 The UI is not very pretty.
-The application only handles single presets. The multi presets also available makes little sense to include in the scope of the program, since they would to a high degree rely on the single patches from the same bank being available in their original memory slot.
+The application only handles single presets. The multi presets also available in the banks are not handled. It makes little sense to include them in the scope of the program, since they would to a high degree rely on the single patches from the same bank being available in their original memory slot.
